@@ -38,7 +38,7 @@ const Form = () => {
         </div>
         <div className='flex justify-center mt-5'>
           <ReCAPTCHA
-            sitekey="6LeqEcspAAAAAGVyiDSxje78YoQzfqG1D-kJAVPl"
+            sitekey="6LewFMspAAAAAF9_SDa2dFVUcQFmI1OhK2cBw2Ds"
             onChange={onChange}
           />
         </div>
