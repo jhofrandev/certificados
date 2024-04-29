@@ -1,11 +1,11 @@
-
+import Form from "./components/Form";
 
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold">
-      Hello world!
-    </h1>
+    <div className="container mx-auto px-4 h-full flex justify-center items-center">
+      <Form />
+    </div>
   )
 }
 
