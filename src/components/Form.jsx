@@ -29,6 +29,7 @@ const Form = () => {
           </Typography>
           <Input
             size="lg"
+            type='number'
             placeholder="1230123012"
             className=" !border-t-blue-gray-200 focus:!border-t-gray-900"
             labelProps={{
